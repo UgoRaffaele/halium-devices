@@ -14,5 +14,7 @@
     <project path="kernel/sony/msm8974" name="android_kernel_sony_msm8974" remote="cm" />
 
     <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" revision="cm-12.1" remote="halium" />
+    
+    <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="cm" />
 
 </manifest>
